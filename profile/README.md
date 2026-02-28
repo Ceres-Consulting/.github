@@ -10,8 +10,6 @@ Acreditamos que a tecnologia deve ser aplicada de forma prática e estratégica,
 
 ## 🌾 Sistema de Gestão de Silos  
 
-<br><br>
-
 O **Sistema de Gestão de Silos** é uma solução desenvolvida para otimizar o controle de armazenagem de grãos, monitoramento de qualidade, previsão de demanda e gestão operacional.  
 
 Com uma interface intuitiva e foco em eficiência, o sistema permite:  
